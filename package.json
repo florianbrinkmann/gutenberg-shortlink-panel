@@ -1,0 +1,13 @@
+{
+  "name": "gutenberg-shortlink-panel",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "wp-scripts build",
+	"start": "wp-scripts start"
+  },
+  "author": "Florian Brinkmann",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@wordpress/scripts": "^13.0.0"
+  }
+}
